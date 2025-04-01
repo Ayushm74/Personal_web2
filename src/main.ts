@@ -113,7 +113,30 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
       <div class="layout-grid">
 
       
+         <a href="https://www.figma.com/proto/JXTxx8ixKXD6DMLj9Hzdkf/Online-Shopping-Mobile-App-(Community)?node-id=1-3&starting-point-node-id=1%3A3&t=VDxbkW6HgtHQRiYE-1" class="card" target="_blank">
+          <img src="https://i.ibb.co/0Rnf1x9M/Screenshot-2025-03-30-220738.png" class="img" alt="Online Shopping App" />
+          <div class="description">
+            <h3>Online Shopping App</h3>
+            <p>Maximize the value of idle parking space</p>
+          </div>
+        </a>
 
+        <a href="https://www.figma.com/proto/vAAfcANBdtIjrOqMQAl1No/Login-%26-Register-App-UI-Kit-(Community)?node-id=2-126&t=o5cz42WkV0Y6mq6F-1" class="card" target="_blank">
+          <img src="https://i.ibb.co/gLjwp4sd/Screenshot-2025-03-30-220838.png" class="img" alt="Groceries App" />
+          <div class="description">
+            <h3>Groceries App</h3>
+            <p>Simple and intuitive UI for online grocery shopping</p>
+          </div>
+        </a>
+
+        <a href="https://www.figma.com/design/lg5x10Q31LK0MrBDUpipb9/WebTree-%3CAyush%3E?node-id=0-1&t=BGTb5tihc6C1ZhcS-1" class="card" target="_blank">
+          <img src="https://i.ibb.co/WvYJkY5p/Screenshot-2025-03-30-220936.png" class="img" alt="Chess App" />
+          <div class="description">
+            <h3>Chess App</h3>
+            <p>Elegant UI/UX for an interactive chess-playing experience</p>
+          </div>
+        </a>
+        
         <a href="https://leetcode.com/u/ayUSHmishra74992/" class="card" target="_blank">
           <img src="https://i.ibb.co/jPj7szRy/Screenshot-2025-03-30-220927.png" class="img" alt="LeetCode Profile" />
           <div class="description">
